@@ -50,10 +50,12 @@ Free VPNs can be slow or sketchy. Schools sometimes block known VPNs too.
 
 ### Method 3: Web proxies or mirror sites
 
-Go to a site like CroxyProxy, type in tiktok.com, and browse.
+Go to a site like [CroxyProxy](https://momoproxy.com/blog/free-web-proxy-croxy-proxy-unblock-youtube), type in tiktok.com, and browse.
 
 No install needed.  
+
 Often slow, buggy, and gets blocked fast. Also, sketchy ads everywhere.
+
 
 ### Method 4: Try text-only TikTok
 
